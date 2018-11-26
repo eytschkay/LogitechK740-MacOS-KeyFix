@@ -1,7 +1,7 @@
 # LogitechK740-MacOS-KeyFix
 This repo contains macro lists fixing Logitechs K740 Keyboard on MacOS using Keyboard Maestro.
 
-**Note: This will not change mac related keys like ctrl, command or fix missing fn-hotkeys.**
+**Note: This will not change mac related keys like ctrl & command. It neither fixes missing fn-hotkeys.**
 
 ## How to use?
 
