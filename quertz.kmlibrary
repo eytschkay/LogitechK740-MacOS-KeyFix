@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>hK</string>
+	<key>AuthorURL</key>
+	<string></string>
+	<key>CanDragToMacroGroup</key>
+	<true/>
+	<key>Category1</key>
+	<string>Text</string>
+	<key>Category2</key>
+	<string></string>
+	<key>Description</key>
+	<string>Fixes most keys on Logitech K740 keyboard</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>CreationDate</key>
+			<real>564941898.32599497</real>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>Action</key>
+							<string>ByTyping</string>
+							<key>MacroActionType</key>
+							<string>InsertText</string>
+							<key>TargetApplication</key>
+							<dict/>
+							<key>TargetingType</key>
+							<string>Front</string>
+							<key>Text</key>
+							<string>°</string>
+						</dict>
+					</array>
+					<key>CreationDate</key>
+					<real>564944081.28257799</real>
+					<key>ModificationDate</key>
+					<real>564944709.17943203</real>
+					<key>Name</key>
+					<string>shift-^</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>50</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>512</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>610968BC-A3AB-40ED-9730-03A26035A0AE</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Global Macro Group</string>
+			<key>ToggleMacroUID</key>
+			<string>10B9BC6C-6870-40AB-A02B-8BEFA24A46D9</string>
+			<key>UID</key>
+			<string>9D8D93D4-15BA-4035-ACA4-270820347CDB</string>
+		</dict>
+	</array>
+	<key>UID</key>
+	<string>97DFB267-CAE5-4F4D-9BFD-954DB338B107</string>
+</dict>
+</plist>
